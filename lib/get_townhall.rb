@@ -45,4 +45,3 @@ end
 
 get_townhall_url
 get_townhall_email(get_townhall_url)
-
